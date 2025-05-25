@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AS5047P_ATSM")(type "KiCad")(uri "${KIPRJMOD}/Footprints/AS5047P_ATSM/KiCADv6/2024-11-19_21-55-36.kicad_sym")(options "")(descr "Magnetic Position Sensor"))
+  (lib (name "DRV8874PWPR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/DRV8874PWPR/DRV8874PWPR.kicad_sym")(options "")(descr "Motor Driver"))
+  (lib (name "STM32G431CBT6")(type "KiCad")(uri "${KIPRJMOD}/Footprints/STM32G431CBT6/KiCADv6/2024-11-19_21-58-52.kicad_sym")(options "")(descr "STM32 MCU"))
+  (lib (name "TCAN334GDR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TCAN334GDR/KiCADv6/2024-11-19_22-03-36.kicad_sym")(options "")(descr "CAN-Bus Transceiver"))
+  (lib (name "TPSM84209RKHR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TPSM84209RKHR/KiCADv6/2024-11-19_22-05-28.kicad_sym")(options "")(descr "Buck Converter"))
+  (lib (name "ABM3B_8_000MHZ_B2_T")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ABM3B_8_000MHZ_B2_T/KiCADv6/2024-11-25_21-49-45.kicad_sym")(options "")(descr "Crystal 8Mhz"))
+  (lib (name "CDBA140SL_HF")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CDBA140SL_HF/KiCADv6/2024-11-25_22-44-58.kicad_sym")(options "")(descr ""))
+  (lib (name "USB6B1RL")(type "KiCad")(uri "${KIPRJMOD}/Footprints/USB6B1RL/KiCADv6/2024-11-25_23-01-31.kicad_sym")(options "")(descr ""))
+  (lib (name "PESD2CANFD24LT-Q")(type "KiCad")(uri "${KIPRJMOD}/Footprints/PESD2CANFD24LT-Q/KiCad/PESD2CANFD24L-UX.kicad_sym")(options "")(descr ""))
+  (lib (name "TMUX1248DCKR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TMUX1248DCKR/KiCADv6/2025-03-11_21-19-33.kicad_sym")(options "")(descr ""))
+)
