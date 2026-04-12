@@ -1,0 +1,39 @@
+ROBOTASTIC NON-COMMERCIAL LICENSE (v1.0)
+Copyright (c) 2026 Robotastic (YouTube: https://www.youtube.com/channel/UCKuV_Eh0zMl3OSophDiDIqA)
+
+1. OVERVIEW
+This license governs the use of the software (source code), hardware designs 
+(KiCad PCB files), and mechanical designs (3D CAD models) included in this 
+project (collectively referred to as "the Work").
+
+2. PERMITTED USE
+You are granted permission to use, copy, modify, and distribute the Work for 
+personal, educational, and non-commercial purposes only. This includes building 
+the robot for your own use, learning from the code, and sharing your personal 
+modifications with the community, provided you give attribution to Robotastic.
+
+3. COMMERCIAL RESTRICTIONS
+Commercial use of the Work is strictly prohibited. You may NOT:
+- Sell the Work or any derivatives of it.
+- Sell hardware (PCBs or assembled controllers) based on the KiCad designs.
+- Sell 3D-printed or manufactured parts based on the 3D models.
+- Use the Work in any commercial product, service, or business environment.
+- Use the Work to provide paid services or training.
+
+4. THIRD-PARTY COMPONENTS
+This project utilizes the SimpleFOC library and related drivers. These 
+components are subject to their own respective licenses (e.g., MIT License). 
+Your use of these components must comply with their original terms.
+
+5. COMMERCIAL LICENSING
+If you wish to use this Work for commercial purposes, you must obtain a 
+separate written license from the author. Please contact Robotastic via the 
+official YouTube channel or provided contact links for inquiries.
+
+6. NO WARRANTY
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.

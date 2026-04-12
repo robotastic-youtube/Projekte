@@ -1,0 +1,41 @@
+# =========================
+# 1. OS-Specific Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# =========================
+# 2. PlatformIO & VS Code
+# =========================
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.o
+*.a
+
+# =========================
+# 3. KiCad
+# =========================
+*.kicad_prl
+fp-info-cache
+*-back.kicad_sch
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.bck
+
+# =========================
+# 4. Temporary & Backup Files
+# =========================
+*.bak
+*.tmp
+*.swp
+*~
